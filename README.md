@@ -1,18 +1,18 @@
-# poop
+# readme-originator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Description
-it creates poop 
+This project was created to make readme files using node and the command line 
 # Installation
-my butt
+You will need to make sure you have installed node and inquirer
 # Usage
-undefined
+It is used to create readme files with ease!
 # Credit
 undefined
 # Contributors 
-popped
+Rebekah818
 # links
-https://github.com/Rebekah818/jest-another-RPG
+https://github.com/Rebekah818/readme-originator/tree/main
 # Tests
 undefined
 # Table of Contents
-lkjhlkjhlkjh
+Project name, Git hub links, Collaborators, License, Installation, usage

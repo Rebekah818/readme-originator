@@ -80,9 +80,9 @@ const promptQuestions = () => {
             message: 'list your collaborators if any with links to their Github profiles',
             validate: creditInput => {
                 if (creditInput) {
-                    return creditInput
+                    return true
                 } else {
-                    return '';
+                    return false;
                 }
             }
         },

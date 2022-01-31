@@ -29,7 +29,7 @@ ${data.installation}
 # Usage
 ${data.usage}
 # Credit
-${data.credit}
+${data.contributors}
 # Contributors 
 ${data.github}
 # links
