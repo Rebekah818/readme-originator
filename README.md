@@ -1,11 +1,11 @@
 # readme-originator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Description
-This project was created to make readme files using node and the command line 
+This helps coders create a professional README through the command line 
 # Installation
-You will need to make sure you have installed node and inquirer
+First you must install node.js and then install the inquirer package
 # Usage
-It is used to create readme files with ease!
+It is used for creating README files
 # Credit
 undefined
 # Contributors 
@@ -15,4 +15,4 @@ https://github.com/Rebekah818/readme-originator/tree/main
 # Tests
 undefined
 # Table of Contents
-Project name, Git hub links, Collaborators, License, Installation, usage
+Project name, description, installation, usage, credit, contributors, links, tests, table of contents
